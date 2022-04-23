@@ -1,2 +1,1 @@
-# faf
 open pages quickly
